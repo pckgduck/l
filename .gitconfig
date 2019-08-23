@@ -1,0 +1,27 @@
+[user]
+email = cheatqff@gmail.com
+name = DS
+[push]
+#push tags and commits same time 
+followTags = true
+[alias]
+a = add .
+b = branch
+c  = commit -am
+f  = fetch
+h  = help
+l  = log
+m  = merge
+p  = push origin developer
+pu = pull origin developer
+s  = status
+t  = tag
+co = checkout
+[core]
+# Параметры установки окончаний строк
+# Для пользователей Windows:
+autocrlf = true
+# selfcrlf = true
+
+# Установка отображения unicode
+quotepath = off
