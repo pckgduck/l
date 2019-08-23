@@ -6,4 +6,13 @@
 !.gitignore
 !.bash_profile
 
+
 !.gitconfig
+
+!bin
+
+!.config/
+.config/*
+!.config/i3
+!.config/mc
+!.config/cmus
